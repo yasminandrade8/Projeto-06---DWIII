@@ -1,0 +1,13 @@
+{
+  "name": "agenda-contatos",
+  "version": "1.0.0",
+  "description": "Agenda de Contatos com CRUD, SQLite e ViaCEP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
